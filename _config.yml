@@ -53,24 +53,24 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,13 +101,13 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          ● Director of Resolution Digital Ltd for 17 years. |
-          ● Liaised directly with clients to create 3D visuals. |
-          ● Created project budgets. |
-          ● Refined production techniques to create fast and accurate images on time and under budget. |
-          ● Regularly looked into integrating new techniques/software to improve delivery. |
-          ● Wrote small python scripts to improve 3D workflows. |
-          ● Created a website using WordPress. |
+          * Director of Resolution Digital Ltd for 17 years. 
+          * Liaised directly with clients to create 3D visuals.
+          * Created project budgets. 
+          * Refined production techniques to create fast and accurate images on time and under budget.
+          * Regularly looked into integrating new techniques/software to improve delivery. 
+          * Wrote small python scripts to improve 3D workflows. 
+          * Created a website using WordPress. 
       - layout: left
         title: CONCISE GROUP
         # link: boringcompany.com
@@ -117,9 +117,9 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          ● Created 3D elements for large format graphics presentations.
-          ● Looked at ways to get smooth playback of video files.
-          ● Setup MOCAP system for realtime facial animated characters.
+          * Created 3D elements for large format graphics presentations.
+          * Looked at ways to get smooth playback of video files.
+          * Setup MOCAP system for realtime facial animated characters.
       - layout: left
         title: DIGITAL VIDEO FACILITIES
         # link: boringcompany.com
@@ -129,11 +129,11 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          ● Head of Graphics.
-          ● PC and Mac integration.
-          ● Helped transform the company from analog to digital.
-          ● Reported directly to Senior management.
-          ● Created and pitched proposals to clients.
+          * Head of Graphics.
+          * PC and Mac integration.
+          * Helped transform the company from analog to digital.
+          * Reported directly to Senior management.
+          * Created and pitched proposals to clients.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
