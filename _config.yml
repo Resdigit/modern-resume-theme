@@ -60,17 +60,12 @@ content:
         title: Super awesome project
       - layout: left
         description: 
-          * Project Management
-          * Good Under Pressure
-          * Problem Solving
-          * Technical Understanding
-      - layout: right
-        description: 
-          * Attention to Detail
-          * 3D Architectural Visualisation
-          * Post Production
-          * Animation
-
+          * Project Management                                  * Technical Understanding  
+          * Good Under Pressure                                 * Attention to Detail
+          * Problem Solving                                     * 3D Architectural Visualisation 
+          * Post Production                                     * Animation 
+          
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -175,7 +170,7 @@ content:
       - Cub Scout Leader
             
       Look at this cool image  
-    ! [porfolio](/modern-resume-theme/assets/portfolio.jpg) 
+        ! [porfolio](/modern-resume-theme/assets/portfolio.jpg) 
 
 # Footer
 footer_show_references: true
