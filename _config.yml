@@ -84,14 +84,14 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          ● Co-ordinated teams to create visuals of large-scale developments.
-          ● Established rendering farm on AWS using spot instances.
-          ● Setup AWS Thinkbox Deadline to manage a render queue.
-          ● Did day-to-day IT on render farm servers, installing/ updating software, fixing issues.
-          ● Improved library assets searchability by using metadata tags.
-          ● Used various techniques to improve render times thereby reducing costs.
-          ● Used Jira for project management.
-          ● Regularly posted tech tips on Slack to keep staff up to date with the latest trends.
+          * Co-ordinated teams to create visuals of large-scale developments.
+          * Established rendering farm on AWS using spot instances.
+          * Setup AWS Thinkbox Deadline to manage a render queue.
+          * Did day-to-day IT on render farm servers, installing/ updating software, fixing issues.
+          * Improved library assets searchability by using metadata tags.
+          * Used various techniques to improve render times thereby reducing costs.
+          * Used Jira for project management.
+          * Regularly posted tech tips on Slack to keep staff up to date with the latest trends.
       - layout: left
         title: RESOLUTION DIGITAL LTD
         # link: boringcompany.com
