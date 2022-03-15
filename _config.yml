@@ -77,9 +77,9 @@ content:
     content:
       - layout: left
         title: ARKO
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        # link: boringcompany.com
+        link_text: London
+        sub_title: Senior 3D Visualiser
         caption: Feb 2020 - Sept 2021
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -87,34 +87,46 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
         title: RESOLUTION DIGITAL LTD
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        # link: boringcompany.com
+        link_text: London
+        sub_title: 3D Visualiser
         caption: Oct 2003 - Feb 2020
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          ● Director of Resolution Digital Ltd for 17 years.
+          ● Liaised directly with clients to create 3D visuals.
+          ● Created project budgets.
+          ● Refined production techniques to create fast and accurate images on time and under budget.
+          ● Regularly looked into integrating new techniques/software to improve delivery.
+          ● Wrote small python scripts to improve 3D workflows.
+          ● Created a website using WordPress.
       - layout: left
         title: CONCISE GROUP
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        # link: boringcompany.com
+        link_text: London
+        sub_title: multimedia and video services
         caption: Mar 2002 - Oct 2003
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          ● Created 3D elements for large format graphics presentations.
+          ● Looked at ways to get smooth playback of video files.
+          ● Setup MOCAP system for realtime facial animated characters.
       - layout: left
         title: DIGITAL VIDEO FACILITIES
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        # link: boringcompany.com
+        link_text: Johannesburg, SA
+        sub_title: Lead 3D Animator
         caption: Oct 2000 - Feb 2002
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          ● Head of Graphics.
+          ● PC and Mac integration.
+          ● Helped transform the company from analog to digital.
+          ● Reported directly to Senior management.
+          ● Created and pitched proposals to clients.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
