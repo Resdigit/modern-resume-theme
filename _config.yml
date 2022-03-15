@@ -57,7 +57,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: test
         description: |
           *Project Management  
           *Technical Understanding  
