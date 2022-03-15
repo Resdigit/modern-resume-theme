@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        quote: >
+        description: |
           * Project Management
           * Good Under Pressure
           * Problem Solving
