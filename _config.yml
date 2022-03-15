@@ -59,13 +59,13 @@ content:
       - layout: top-middle
         title: Super awesome project
       - layout: left
-        description: |
+        description: 
           * Project Management
           * Good Under Pressure
           * Problem Solving
           * Technical Understanding
       - layout: right
-        description: |
+        description: 
           * Attention to Detail
           * 3D Architectural Visualisation
           * Post Production
