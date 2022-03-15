@@ -56,8 +56,8 @@ content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        description: 
+      - layout: right
+        description: |
           Project Management
           Technical Understanding  
           Good Under Pressure
