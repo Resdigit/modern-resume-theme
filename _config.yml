@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: top-middle
         description: 
@@ -171,7 +171,7 @@ content:
       - Cub Scout Leader
             
       Look at this cool image  
-        ! [porfolio](gh-pages/modern-resume-theme/assets/portfolio.jpg) 
+        ! [porfolio](assets/portfolio.jpg) 
 
 # Footer
 footer_show_references: true
