@@ -59,13 +59,13 @@ content:
       - layout: right
         description: |
           Project Management
-          Technical Understanding  
+          Technical Understanding
           Good Under Pressure
           Attention to Detail
           Problem Solving
-          3D Architectural Visualisation 
+          3D Architectural Visualisation
           Post Production
-          Animation          
+          Animation
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
