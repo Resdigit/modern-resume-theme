@@ -175,7 +175,7 @@ content:
       - Cub Scout Leader
             
       Look at this cool image  
-    portfolio_image: images/portfolio.jpg 
+    ! [porfolio](/modern-resume-theme/assets/portfolio.jpg) 
 
 # Footer
 footer_show_references: true
