@@ -59,13 +59,13 @@ content:
       - layout: top-middle
         description: |
           <div align="center">*Project Management  </div>
-          *Technical Understanding  
-          *Good Under Pressure  
-          *Attention to Detail  
-          *Problem Solving  
-          *3D Architectural Visualisation  
-          *Post Production  
-          *Animation  
+          <div align="center">*Technical Understanding  </div>
+          <div align="center">*Good Under Pressure  </div>
+          <div align="center">*Attention to Detail  </div>
+          <div align="center">*Problem Solving  </div>
+          <div align="center">*3D Architectural Visualisation  </div>
+          <div align="center">*Post Production  </div>
+          <div align="center">*Animation  </div>
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
