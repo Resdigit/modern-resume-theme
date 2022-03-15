@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         description: |
-          *Project Management  
+          <div align="center">*Project Management  </div>
           *Technical Understanding  
           *Good Under Pressure  
           *Attention to Detail  
