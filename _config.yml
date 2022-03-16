@@ -58,13 +58,20 @@ content:
     content:
       - layout: top-middle
         sub_title: |
-          Project Management  
+          Project Management 
+
           Technical Understanding  
+
           Good Under Pressure  
-          Attention to Detail  
+
+          Attention to Detail 
+
           Problem Solving  
+
           3D Architectural Visualisation  
+
           Post Production  
+          
           Animation  
           
   - title: Experience # Title for the section
@@ -171,7 +178,7 @@ content:
       - Cub Scout Leader
             
       Look at this cool image  
-        ! [porfolio](modern-resume-theme/images/portfolio.jpg) 
+        ! [porfolio](images/portfolio.jpg) 
 
 # Footer
 footer_show_references: true
