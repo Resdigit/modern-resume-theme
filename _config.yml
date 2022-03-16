@@ -178,7 +178,7 @@ content:
       - Cub Scout Leader
             
       Look at this cool image  
-        ! [porfolio](https://raw.github.com/Resdigit/modern-resume-theme/gh-pages/images/Portfolio.jpg)
+        ![porfolio](https://raw.github.com/Resdigit/modern-resume-theme/gh-pages/images/Portfolio.jpg)
 
 # Footer
 footer_show_references: true
