@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        quote: |
+        sub_title: |
           Project Management  
           Technical Understanding  
           Good Under Pressure  
