@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        description: |
+        title: |
           Project Management 
 
           Technical Understanding  
@@ -176,6 +176,7 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rugby
       - Cub Scout Leader
+      - 3D
             
       Look at this cool image  
         ![porfolio](https://raw.github.com/Resdigit/modern-resume-theme/gh-pages/images/Portfolio.jpg)
