@@ -1,5 +1,5 @@
 # Site
-repository: resdigit/resume-cv
+repository: Resdigit/resume-cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -171,6 +171,7 @@ content:
 footer_show_references: true
 
 # Build settings
+theme: modern-resume-theme
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
  sass:
