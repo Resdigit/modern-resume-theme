@@ -160,11 +160,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rugby.
-      - Cub Scout Leader.
-      - 3D Visualisation.
+      - Rugby
+      - Cub Scout Leader
+      - 3D visualisation
             
-      Some visuals I have created.  
+      Visuals I created  
         ![porfolio](https://raw.github.com/Resdigit/modern-resume-theme/gh-pages/images/Portfolio.jpg)
 
 # Footer
